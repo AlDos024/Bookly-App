@@ -14,7 +14,7 @@ class FearuredBooksListView extends StatelessWidget {
         itemBuilder: (context, index) {
           return const Padding(
             padding: EdgeInsets.symmetric(horizontal: 6.0),
-            child: CustomListView(),
+            child: CustomBookImg(),
           );
         },
       ),

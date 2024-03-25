@@ -2,7 +2,6 @@ import 'package:bookly_app/core/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'best_seller_list_view.dart';
-import 'best_seller_list_view_Item.dart';
 import 'custom_app_bar.dart';
 import 'featured_list_view.dart';
 
